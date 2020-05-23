@@ -14,3 +14,5 @@ The page must contain:
 - Footer 
 
 Card data must be displayed via an external API request.
+
+![](https://github.com/andressalh/airbnb-GamaAcademy/blob/master/src/img/airbnb.png)
