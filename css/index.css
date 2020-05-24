@@ -4,9 +4,9 @@
 }
 
 .card-body {
-    height: 250px;
-    max-height: 250px;
-  }
+    height: 270px;
+    max-height: 270px;
+}
 
 .row .property-image {
     height: 200px;
@@ -18,7 +18,7 @@
 
 .card .property-name {
     color: #4a4a4a;
-    font-size: 26px;
+    font-size: max(26px,1.5vw);
  }
 .row p {
     color: #4a4a4a;
