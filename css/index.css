@@ -4,9 +4,9 @@
 }
 
 .card-body {
-    height: 200px;
-    max-height: 200px;
-}
+    height: 250px;
+    max-height: 250px;
+  }
 
 .row .property-image {
     height: 200px;
