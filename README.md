@@ -17,3 +17,5 @@ Card data must be displayed via an external API request.
 HTML - CSS - JS
 
 ![](https://github.com/andressalh/airbnb-GamaAcademy/blob/master/src/img/airbnb.png)
+
+http://airbnbcopy.andressahenriques.com/
