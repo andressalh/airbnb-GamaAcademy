@@ -11,7 +11,6 @@ The page must contain:
 - Type property
 - Name property
 - Price property
-- Footer 
 
 Card data must be displayed via an external API request.
 
