@@ -54,7 +54,7 @@ request.onload = function() {
       cardBody.appendChild(h1);
 
       const p = document.createElement('p');
-      p.textContent = "Total de R$ " +apartment.price + ".";
+      p.textContent = "Total de R$ " +apartment.price + "/noite";
       p.className = 'property-price';
       cardBody.appendChild(p);
       
